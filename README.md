@@ -1,7 +1,7 @@
 # About me
 
 
-**chiki12/chiki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chiki12** is a ✨ master student ✨ at Graduate School of Interdisciplinary Information Studies, University of Tokyo
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 my [linkedIn](https://www.linkedin.com/in/chiki12/) account
 - 😄 She/Her
 - ⚡ Fun fact: She can speaks 3 languages fluently, and loves watching TV series (BBT, young sheldon, b99, 2💸👯‍♀️)
+- 🔬 (research) interest: prompt engineering, HCI, gaze estimation, frame generation
 
 <!--
 - 👯 I’m looking to collaborate on ...
