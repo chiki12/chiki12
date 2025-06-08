@@ -9,7 +9,7 @@
 - 📫 my [linkedIn](https://www.linkedin.com/in/chiki12/) 
 - 😄 She/Her
 - ⚡ Fun fact: I can speaks 3 languages fluently, and loves watching TV series (BBT, young sheldon, b99, 2💸👯‍♀️)
-- 🔬 (research) interest: prompt engineering, HCI, gaze estimation, frame generation
+- 🔬 (research) interest: prompt engineering, HCI, gaze estimation
 - 🖼️ I am addicted to pixel art recently and trying to use it whenever I have chance.
 
 <!--
