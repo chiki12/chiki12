@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about web application/websites, HCI, how to use Procreate🎨
 - 🤔 I’m looking for help with cool human-centered design!
-- ♥️ Anime, TV series, Japanese drama
+- ♥️ Anime, TV series
 - 📫 my [linkedIn](https://www.linkedin.com/in/chiki12/) 
 - 😄 She/Her
 - ⚡ Fun fact: I can speaks 3 languages fluently, and loves watching TV series (BBT, young sheldon, b99, 2💸👯‍♀️)
