@@ -15,3 +15,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on making web application/websites/
 --!>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=pink&hide_border=true" />
+</p>
